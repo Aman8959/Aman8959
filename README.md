@@ -43,7 +43,7 @@ to build solutions that are useful, scalable, and results-driven.
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
@@ -186,8 +186,6 @@ I'm interested in working on:
 ---
 
 ## 📫 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-portfolio-dun.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([)](https://www.linkedin.com/in/aman-kumar-yadav-ds?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aman8959)
 
