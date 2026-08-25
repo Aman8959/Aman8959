@@ -57,7 +57,7 @@ to build solutions that are useful, scalable, and results-driven.
 
 ### AI & Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![Vector Database](https://img.shields.io/badge/Vector Database-5C3EE8?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector-Database-5C3EE8?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
 
